@@ -1,0 +1,15 @@
+header{
+    background-color: rgb(245,245,220);
+    height: 50px;
+    color: white;
+    
+    ul{
+        list-style: none;
+        display: flex;
+        li{
+            margin-right: 30px;
+            margin-top: 10px;
+            font-size: 20px;    
+        }
+    }
+}
